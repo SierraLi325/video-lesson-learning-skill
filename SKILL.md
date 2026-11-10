@@ -1,5 +1,5 @@
 ---
-name: video-lesson-learning
+name: video-lesson-learning-v1.2
 description: 将按顺序排列的教学视频及其字幕、文稿和画面整理成可操作的详细跟练材料。适用于用户希望逐步复现网课、核对过程效果和理解老师补充知识的场景；不用于仅凭课程标题或简介概述课程。
 ---
 
